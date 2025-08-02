@@ -10,13 +10,13 @@
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
 ### 🛠 &nbsp;Main Tech Stack&nbsp;
-![Python](https://img.shields.io/badge/-Python-FECC00?style=flat&logo=Python)&nbsp;
+![Python](https://img.shields.io/badge/-Python-FC6D26?style=flat&logo=Python)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-FFCE00?style=flat&logo=Pytest)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-FFFFFF?style=flat&logo=Selenium)&nbsp;
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
+![Git](https://img.shields.io/badge/-Git-A6A9AA?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)&nbsp;
-![GitHubActions](https://img.shields.io/badge/-GitHubActions-2088FF?style=flat&logo=GitHubActions)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)\
+![GitHubActions](https://img.shields.io/badge/-GitHubActions-181717?style=flat&logo=GitHubActions)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-6E9F18?style=flat&logo=Pycharm)\
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)
 
