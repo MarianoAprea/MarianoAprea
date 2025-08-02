@@ -30,7 +30,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mariano-aprea"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/mariano-aprea"><img src="https://img.shields.io/badge/-Mi%Perfil%Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
