@@ -1,7 +1,3 @@
-
-
-![Mariano Aprea]
-
 ## 👋 &nbsp;Hey there! I'm Mariano
 
 ### 👨🏻‍💻 &nbsp;About Me
