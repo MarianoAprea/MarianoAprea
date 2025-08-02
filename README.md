@@ -18,6 +18,7 @@
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-181717?style=flat&logo=GitHubActions)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-6E9F18?style=flat&logo=Pycharm)\
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat)&nbsp;
+![postman](https://img.shields.io/badge/-Postman-A6A9AA?style=flat&logo=Postman)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)
 ![CSS](https://img.shields.io/badge/-css-663399?style=flat&logo=css)
 
