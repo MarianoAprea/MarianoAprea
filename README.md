@@ -1,4 +1,5 @@
 ## 👋 &nbsp;Hey there! I'm Mariano
+![About Me](https://www.canva.com/design/DAGu84yBcek/ZMWeiERZes5g7jMP8nTqKA/view?utm_content=DAGu84yBcek&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h34b91d8d2a)
 
 ### 👨🏻‍💻 &nbsp;About Me
 
