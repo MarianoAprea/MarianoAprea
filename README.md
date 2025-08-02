@@ -17,11 +17,12 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)&nbsp;
 ![GitHubActions](https://img.shields.io/badge/-GitHubActions-181717?style=flat&logo=GitHubActions)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Pycharm-6E9F18?style=flat&logo=Pycharm)\
-![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat)&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat)&nbsp;
 ![postman](https://img.shields.io/badge/-Postman-A6A9AA?style=flat&logo=Postman)
 ![Fastapi](https://img.shields.io/badge/-fastapi-2C3E50?style=flat&logo=fastapi)
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)
 ![CSS](https://img.shields.io/badge/-css-663399?style=flat&logo=css)
+![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
 ### 🤝🏻 &nbsp;Connect with Me by email:
 
