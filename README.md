@@ -6,10 +6,9 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Software Quality Engineer. I'm here to learn and share my knowledge of techniques, modules for using differents QA tools. .\
+💡 &nbsp; I'm a Software Quality Engineer. I'm here to learn and share my knowledge of techniques, modules for using differents QA tools.\
 🎓 &nbsp;I'm currently exploring various tools to develop a way to enhance my ideas and knowledge applied to the world of software quality assurance.\
 ✍️ &nbsp;I'm on my way to learning more about different tools to improve web and mobile test automation methods, as well as API-Backend test automation.\
-✉️ &nbsp;You can shoot me an email at apreamariano@gmail.com  I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
 ### 🛠 &nbsp;Main Tech Stack&nbsp;
