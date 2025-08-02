@@ -16,9 +16,8 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
+### 🛠 &nbsp;Tech Stack)&nbsp;
+![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Pycharm](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
