@@ -18,19 +18,10 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![PyCharm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&exclude_lang=java+r&theme=vue-dark" />
-</a>
-</p>
 
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://linkedin.com/in/mariano-aprea"><img src="https://img.shields.io/badge/-Mi%Perfil%Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
