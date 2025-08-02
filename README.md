@@ -2,13 +2,12 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a software quality engineer. I'm here to learn and share my knowledge of techniques and modules for using differents QA tools. .\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the University of Massachusetts Amherst.\
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
-✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
-💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
+💡 &nbsp; I'm a software quality engineer. I'm here to learn and share my knowledge of techniques, modules for using differents QA tools. .\
+🎓 &nbsp;I'm currently exploring various tools to develop a way to enhance my ideas and knowledge applied to the world of software quality assurance.\
+✍️ &nbsp;I'm on my way to learning more about different tools to improve web and mobile test automation methods, as well as API-Backend test automation.\
+
 ✉️ &nbsp;You can shoot me an email at apreamariano@gmail.com  I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [resume](Mariano_Aprea_cv.pdf) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
 ### 🛠 &nbsp;Tech Stack)&nbsp;
 ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)&nbsp;
@@ -19,9 +18,9 @@
 ![PyCharm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)
 
 
-### 🤝🏻 &nbsp;Connect with Me
+### 🤝🏻 &nbsp;Connect with Me by email:
 
-<p align="center">
+<p align="left">
 <a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
