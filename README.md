@@ -9,9 +9,9 @@
 ✉️ &nbsp;You can shoot me an email at apreamariano@gmail.com  I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
-### 🛠 &nbsp;Tech Stack&nbsp;
+### 🛠 &nbsp;Main Tech Stack&nbsp;
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)&nbsp;
-![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=Pytest)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-FFDD00?style=flat&logo=Pytest)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)&nbsp;
 ![GitHubActions](https://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=GitHub)&nbsp;
