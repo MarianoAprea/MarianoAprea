@@ -19,7 +19,7 @@
 ![Pycharm](https://img.shields.io/badge/-Pycharm-6E9F18?style=flat&logo=Pycharm)\
 ![Visual Studio Code](https://img.shields.io/badge/-VisualStudioCode-333333?style=flat)&nbsp;
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)
-
+![CSS](https://img.shields.io/badge/-css-663399?style=flat&logo=css)
 
 ### 🤝🏻 &nbsp;Connect with Me by email:
 
