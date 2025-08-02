@@ -10,8 +10,8 @@
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
 ### 🛠 &nbsp;Main Tech Stack&nbsp;
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)&nbsp;
-![Pytest](https://img.shields.io/badge/-Pytest-FFDD00?style=flat&logo=Pytest)&nbsp;
+![Python](https://img.shields.io/badge/-Python-FECC00?style=flat&logo=Python)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-FFCE00?style=flat&logo=Pytest)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-FFFFFF?style=flat&logo=Selenium)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)&nbsp;
