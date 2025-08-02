@@ -1,11 +1,14 @@
 ![About Me](https://github.com/MarianoAprea/MarianoAprea/blob/main/Presentaci%C3%B3nGIT.gif)
 
+### 🤝🏻 &nbsp;Connect with Me by email:
+<p align="left">
+<a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Software Quality Engineer. I'm here to learn and share my knowledge of techniques, modules for using differents QA tools. .\
 🎓 &nbsp;I'm currently exploring various tools to develop a way to enhance my ideas and knowledge applied to the world of software quality assurance.\
 ✍️ &nbsp;I'm on my way to learning more about different tools to improve web and mobile test automation methods, as well as API-Backend test automation.\
-
 ✉️ &nbsp;You can shoot me an email at apreamariano@gmail.com  I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
@@ -24,9 +27,6 @@
 ![CSS](https://img.shields.io/badge/-css-663399?style=flat&logo=css)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 
-### 🤝🏻 &nbsp;Connect with Me by email:
 
-<p align="left">
-<a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
