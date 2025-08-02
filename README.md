@@ -1,6 +1,6 @@
 
 
-![Mariano Aprea](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Aditya%20Vikram%20Singh%20Banner.jpg)
+![Mariano Aprea](https://analyticsindiamag.com/wp-content/uploads/2019/06/unnamed-1.png)
 
 ## 👋 &nbsp;Hey there! I'm Mariano
 
