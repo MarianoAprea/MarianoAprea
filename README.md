@@ -9,13 +9,15 @@
 ✉️ &nbsp;You can shoot me an email at apreamariano@gmail.com  I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
-### 🛠 &nbsp;Tech Stack)&nbsp;
-![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)&nbsp;
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
-![Pycharm](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![PyCharm logo](https://resources.jetbrains.com/storage/products/company/brand/logos/PyCharm_icon.svg)
+### 🛠 &nbsp;Tech Stack&nbsp;
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=flat&logo=Pytest)&nbsp;
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)&nbsp;
+![GitHubActions](https://img.shields.io/badge/-GitHub-2088FF?style=flat&logo=GitHub)&nbsp;
+![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)\
+![Visual Studio Code](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Pycharm)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)
 
 
 ### 🤝🏻 &nbsp;Connect with Me by email:
