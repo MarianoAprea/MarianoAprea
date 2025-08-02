@@ -1,6 +1,6 @@
 
 
-![Mariano Aprea](Mariano_Aprea_cv.pdf)
+![Mariano Aprea]
 
 ## 👋 &nbsp;Hey there! I'm Mariano
 
@@ -12,7 +12,7 @@
 ✍️ &nbsp;In my free time, I pursue Graphic Design and Blog Writing as hobbies/side hustles.\
 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\
 ✉️ &nbsp;You can shoot me an email at apreamariano@gmail.com  I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [resume](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
+📄 &nbsp;Please have a look at my [resume](Mariano_Aprea_cv.pdf) for more details about me. I'm open to feedback and suggestions!
 
 ### 🛠 &nbsp;Tech Stack)&nbsp;
 ![Python](https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg)&nbsp;
