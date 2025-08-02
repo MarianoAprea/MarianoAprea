@@ -1,6 +1,6 @@
 
 
-![Mariano Aprea](https://analyticsindiamag.com/wp-content/uploads/2019/06/unnamed-1.png)
+![Mariano Aprea](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Dm2h5eNDJnm7AWaGxm65SQ.jpeg)
 
 ## 👋 &nbsp;Hey there! I'm Mariano
 
