@@ -1,4 +1,4 @@
-![About Me](https://github.com/MarianoAprea/MarianoAprea/blob/main/Presentaci%C3%B3nGIT.gif)
+![About Me](https://github.com/MarianoAprea/MarianoAprea/blob/main/Presentaci%C3%B3nGITPRO.gif)
 
 ### 🤝🏻 &nbsp;Connect with Me by email:
 <p align="left">
