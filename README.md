@@ -1,6 +1,6 @@
 
 
-![Mariano Aprea](https://miro.medium.com/v2/resize:fit:1100/format:webp/1*Dm2h5eNDJnm7AWaGxm65SQ.jpeg)
+![Mariano Aprea](Mariano_Aprea_cv.pdf)
 
 ## 👋 &nbsp;Hey there! I'm Mariano
 
