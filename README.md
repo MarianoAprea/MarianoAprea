@@ -11,7 +11,7 @@
 ✍️ &nbsp;I'm on my way to learning more about different tools to improve web and mobile test automation methods, as well as API-Backend test automation.\
 📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
 
-### 🛠 &nbsp;Main Tech Stack&nbsp;
+### 🛠 &nbsp; My main Tech Stack&nbsp;
 ![Python](https://img.shields.io/badge/-Python-FC6D26?style=flat&logo=Python)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-FFCE00?style=flat&logo=Pytest)&nbsp;
 ![Selenium](https://img.shields.io/badge/-Selenium-FFFFFF?style=flat&logo=Selenium)&nbsp;
