@@ -30,7 +30,7 @@
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
 
-⭐️ From [Mariano](https://github.com/MarianoAprea/)
+⭐️ ir a  [AppAutomation](https://github.com/MarianoAprea/MarianoAprea/blob/main/Apps)
 
 
 ⭐️ ir a  [AppAutomation]
