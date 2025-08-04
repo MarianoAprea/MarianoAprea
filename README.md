@@ -30,9 +30,9 @@
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
 
-Lets begin with [Apps_automation](Apps.md)  
-Continue with [Webs_automation](WebsAutomation.md)  
-Now [Apis_automation](BackendAutomation.md)  
+Lets begin with [Apps_automation](apps.md)  
+Continue with [Webs_automation](websAutomation.md)  
+Now [Apis_automation](backendAutomation.md)  
 
 
 
