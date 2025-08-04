@@ -30,7 +30,7 @@
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
 
-⭐️ ir a  [AppAutomation](https://github.com/MarianoAprea/MarianoAprea/blob/main/Apps.md)
+⭐️ ir a [AppAutomation](https://github.com/MarianoAprea/MarianoAprea/blob/main/Apps.md)
     <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/b2d28f0d-2f42-4803-b4fc-fc9703f835bc" />
 
 ⭐️ ir a  [AppAutomation]
