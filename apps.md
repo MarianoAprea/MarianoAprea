@@ -9,7 +9,7 @@
 
 📱💻 &nbsp; First steps: &nbsp;
 
-
+Appium acts as a server that receives WebDriver commands and executes them on the device, simulating user interaction with the application.
  &nbsp;  &nbsp;
 
    
