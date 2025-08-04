@@ -9,7 +9,7 @@
 💡 &nbsp; Hi! My name's Mariano, I from Bs As. Argentina and I'm a test software engineer, I've  worked for many technology companies in the last 17 years. Nowadays I've create this repo to learn, enjoy and share my knowledge of techniques, ideas and others QA issues that make me like to shere us in order to register it and keep learning.\
 🎓 &nbsp;I'm currently exploring various tools to develop a way to enhance my ideas and applied knowledge to the world of software quality assurance.\
 ✍️ &nbsp;I'm on my way to learning more about different tools to improve web and mobile test automation methods, as well as API-Backend test automation.\
-📄 &nbsp;Please have a look at my [RESUME](Mariano_Aprea_cv.pdf)
+📄 &nbsp;Please have a look at my [Resume](Mariano_Aprea_cv.pdf)
 
 ### 🛠 &nbsp; My main Tech Stack&nbsp;
 ![Python](https://img.shields.io/badge/-Python-FC6D26?style=flat&logo=Python)&nbsp;
