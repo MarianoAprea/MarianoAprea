@@ -25,6 +25,7 @@
 ![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat&logo=Jira)
 ![CSS](https://img.shields.io/badge/-css-663399?style=flat&logo=css)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+![Appium](https://img.shields.io/badge/-Appium-0D96F6?style=flat&logo=appium)&nbsp;
 
 
 
