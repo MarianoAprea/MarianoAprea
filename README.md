@@ -1,8 +1,4 @@
-![About Me](https://github.com/MarianoAprea/MarianoAprea/blob/main/presentacionGit.gif)
 
-### 🤝🏻 &nbsp;Connect with Me by email:
-<p align="left">
-<a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -27,7 +23,9 @@
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Appium](https://img.shields.io/badge/-Appium-0D96F6?style=flat&logo=appium)&nbsp;
 
-
+### 🤝🏻 &nbsp;Connect with Me by email:
+<p align="left">
+<a href="mailto:apreamariano@gmail.com"><img src="https://img.shields.io/badge/-apreamariano@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 ⭐️ From [Mariano](https://github.com/MarianoAprea)
 
